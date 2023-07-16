@@ -1,4 +1,4 @@
-// Template C to x86 call
+// Michael Robert G. Geronimo - S11
 #include<stdio.h>
 #include<stdlib.h>
 #include<Windows.h>
