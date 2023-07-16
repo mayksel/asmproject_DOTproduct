@@ -11,7 +11,8 @@
 ![image](https://github.com/mayksel/Dot-Product/assets/115066447/cc90f0a0-b623-4e62-8028-fbccbde2bff4)
 
 ### Comparative data of execution time of array size 1^28
-![image](https://github.com/mayksel/Dot-Product/assets/115066447/fdac762e-1c67-46a1-87b9-af5aa1e71867)
+![image](https://github.com/mayksel/asmproject_DOTproduct/assets/115066447/8e2952d5-c508-47be-8bfb-4225671c4403)
+
 
 
 
