@@ -8,7 +8,6 @@ global dotproductsimd
 dotproductsimd:
 	shr rcx, 3
 	mov rax, 0 
-
 	loop_start:
 		vmovdqu ymm0, [rdx]
 		vmovdqu ymm1, [r8] 
