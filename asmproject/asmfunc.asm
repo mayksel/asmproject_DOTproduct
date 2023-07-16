@@ -1,3 +1,5 @@
+; Michael Robert G. Geronimo - S11
+
 section .text
 bits 64
 default rel
